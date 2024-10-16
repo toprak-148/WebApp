@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215A80C-C854-49D0-8C65-5BAF1B00D9AB}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication1\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication1\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\onedrive\\masa\u00FCst\u00FC\\toprak\\staj hata duzeltme\\webapplication1\\webapplication1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B191A6-55C4-45DE-8F9C-843C1F74D177}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:58:39.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-31T18:55:03.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-31T18:55:03.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-31T18:55:00.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LICENSE",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-31T18:54:57.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-31T18:53:36.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T18:45:06.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T18:14:21.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:14:05.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-31T16:42:29.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T16:17:39.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T16:17:27.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T16:17:18.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\UserService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\UserService.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\UserService.cs",
+              "RelativeToolTip": "WebApplication1\\UserService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T16:17:01.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\UsersController.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\UsersController.cs",
+              "RelativeToolTip": "WebApplication1\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T16:16:57.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\User.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\User.cs",
+              "RelativeToolTip": "WebApplication1\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T16:16:56.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\AuthController.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication1\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\AuthController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T16:16:46.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Models\\LoginModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:15:31.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Models\\UserModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:08:02.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:02:38.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:01:30.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:01:21.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:01:09.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:00:55.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:00:42.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:00:20.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:00:17.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:00:14.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:00:10.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Masa\u00FCst\u00FC\\toprak\\Staj Hata Duzeltme\\WebApplication1\\WebApplication3\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:00:00.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

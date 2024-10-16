@@ -1,0 +1,25 @@
+﻿@model IEnumerable<WebApplication3.Models.UserModel>
+
+<h2>Users</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Adı</th>
+            <th>Soyadı</th>
+            <th>Kullanıcı Adı</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Adi</td>
+                <td>@user.Soyadi</td>
+                <td>@user.KullaniciAdi</td>
+            </tr>
+        }
+    </tbody>
+</table>
